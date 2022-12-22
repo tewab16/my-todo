@@ -1,0 +1,42 @@
+*{
+  align-items: center;
+}
+.App {
+  align-items: center;
+  margin-left: 10px;}
+body{
+  background: linear-gradient(90dg,rgb());
+background-color:rgb(123, 119, 114);
+box-shadow: inset;
+align-items: center;
+
+}
+h1{
+  margin: 4px 0;
+  font-size: 24px;
+
+}
+input {
+  padding: 4px;
+  border-radius: 4px;
+  outline: none;
+  background-color: green;
+  background: transparent;
+  margin-right: 8px;
+}
+ul {
+  list-style: none;
+}
+li{
+ margin: 12px; 
+}
+.delete-button {
+  font-size: 10px;
+  margin-left: 8px;
+
+border: none;
+color: brown;
+border-radius: 4px;
+
+padding-top: 4px;
+padding-bottom: px;}
